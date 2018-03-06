@@ -1,3 +1,7 @@
+//example created by user: nilupulbasnayake4116
+//on Payeezy Help Thread: https://developer.payeezy.com/content/net-integration
+
+
 private void TestPayeezy()
         {
             Token token = new Token();
